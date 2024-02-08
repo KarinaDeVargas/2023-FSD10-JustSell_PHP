@@ -1,0 +1,39 @@
+For our website design we took inspiration from existing real-estate websites and decided on the following design.
+
+A common Navbar containing the following:
+	- Logo (goes to main home page)
+	- Login (goes to User Registration & Login Page)
+	- Search (goes to Search Results Page)
+	- Contact us (goes to Contact us Page)
+
+1. Home Page:
+	○ Display an overview of the website, highlighting key features, offers, and search functionality.
+
+2. User Registration & Login Page:
+	○ Allow users to register or login to their accounts.
+
+3. User Profile Page:
+	○ Enable registered users to modify their profile details.
+
+4. Accommodation Listings Page:
+	○ Display a list of accommodations with essential information like address, description, listing agent, and price.
+
+5. Accommodation Details Page:
+	○ Provide detailed information about a specific accommodation, including images and additional details.
+	○ Allow users to submit an offer for a particular accommodation.
+
+6. Search Results Page:
+	○ Show search results based on user input with the option to filter the results.
+
+7. Checkout Page:
+	○ Confirm the offer with the user and indicate how much it is above or below the asking price.
+
+8. Admin Panel:
+	○ Provide access to administrative functions to manage users, agents, properties, and offers.
+
+9. Contact us Page:
+	○ Information about our group/topic
+	○ How to contact the company and/or where they are located
+
+Currently our wireframes for the Home page and Admin Panel are still in progess.
+

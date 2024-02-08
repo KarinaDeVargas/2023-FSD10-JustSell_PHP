@@ -1,0 +1,91 @@
+Friday October 13th - Project Day 1
+    Amine volunteered to set up the GitHub repo. 
+    Then we ended the meeting early to read through the assignment instructions.
+
+October 14 and 15th
+    Karina - created the logo and pushed to GitHub repo.
+    Karina - started working on the Low-fidelity wireframe  -  display elements in simple content blocks or general images, taking our team basic concept and turning it into something more refined. This phase will determine what graphical elements need to be created and what copy needs to be written.
+
+Monday October 16th - Project Day 2
+    Karina - working on the Low-fidelity wireframe
+    Amine finished defining the database entities and their attributes.
+    Benjamin - Started HTML based on wireframe
+
+Tuesday October 17th - Project Day 3
+    Amine - worked on the E/R Diagram. 
+    Benjamin - Converted HTML to php
+    Karina - Working on HTML for home page
+
+Wednesday October 18th - Project Day 4
+    Benjamin - Started Database, created sql file
+    Amine - researched and found the web hosting server for our website: infinityfree.com
+    Karina - Working on CSS, HTML and PHP for home page
+
+Thursday October 19th - 
+    Karina - Working on HTML for search page
+    Group discussion about Home page, Admin panel & db improvements
+
+Friday October 20th -
+    Karina - Working on HTML for search page
+    Amine - Started working on Contact Us page.
+    Benjamin - DB structure Update, Continued work on Registration page
+
+Monday October 23rd -
+    Amine - Started the Contact Us page.
+    Benjamin - created some sample data for DB, continued suffering with Registration page
+    Karina - search page done, added db samples 
+
+Tuesday October 24th
+    Benjamin - Registration Page almost complete! TDB password hashing and checking for username already in use
+    Karina - Update Header and Footer, working on all listing page, Details page and get in touch page
+    Amine - added the mail function for the contact form.
+
+
+Wednesday October 25th -
+    Benjamin - Password hashing, and username validation finished. created login page, css tweaks
+    Karina - Listing page created but not finalized
+    Amine - Started the User profile dashboard
+
+Thursday October 26th -
+    Benjamin - Continued login page work. Almost finished. TDB Cookies. Added functions.php
+    Karina - Working listing page, entering db information to be able to test the function on the listing page.
+    Amine - is working on the User profile dashboard.
+
+Friday October 27th -
+    Benjamin - Cleaning; organizing, reduce redundancies, add comments (i always forget those), minor fixes
+    Karina - after test: fixed link home on footer, fixed link contact us on footer, fixed link all listings us on footer, fixed several links on our header.
+    Amine - is working on the User profile dashboard.
+
+Saturday October 28th -
+    Benjamin - 
+    Karina - create about us page, create saved properties page (user needs to log in first)
+    Amine - pushed an initial version of the user profile dashboard.
+
+Monday October 30th -
+    Amine - Setting up the Admin dashboard button.
+    Karina - all_listing and latest_listing pages created to do list to compare with requirements
+
+Tuesday October 31st - Happy Halloween!
+    Benjamin - Started Admin / Agent Panel, 000webhost setup.
+     Amine - pushed the Admin dashboard button.
+     Karina - started to review all pages and make some adjustments.
+
+Wednesday November 1st
+    Benjamin - Admin/Agent panel; Delete function, Add/edit function
+    Amine - moved the error messages in the login box and made them red as well.
+    Karina - CSS and HTML adjustments
+
+Thursday November 2nd
+    Benjamin - add/edit properties function
+    Amine - is working the users and agent sections of the admin panel. Also started the project report.
+    Karina - details.php and fixing small css issues
+
+Friday November 3rd
+    Benjamin - 
+    Amine – finished the users and agent sections of the admin panel.
+    Karina - details.php and part 2 and 3 of the small fixings 
+
+Saturday November 4th
+    Benjamin - 
+    Amine – fixed a bug on the editAgent.php page.
+    Karina - finished details.php, general website test and fixed small issues
